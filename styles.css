@@ -108,3 +108,10 @@ span{
   -o-background-size:contain;
   padding-top: 11.5em;
 }
+#web{
+  background:url("https://www.bgosoftware.com/blog/wp-content/uploads/2016/02/insidepost_Laptop_woman.jpg")no-repeat;
+  -webkit-background-size:contain;
+  -moz-background-size:contain;
+  -o-background-size:contain;
+  padding-top: 11.5em;
+}
