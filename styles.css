@@ -129,3 +129,14 @@ span{
   -o-background-size:contain;
   padding-top: 11.5em;
 }
+#search p{
+  padding-top: 1.5em;
+  padding-left: 8.5em;
+  font-size: 3em;
+  color: #ffffff;
+}
+#search{
+  background-color: rgba(255, 107, 129,1.0);
+  margin-right: 9em;
+  margin-left: 9em;
+}
