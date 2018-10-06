@@ -61,10 +61,13 @@ input[type='text']{
   box-sizing: border-box;
   width:30%;
   border: 1px solid white;
+  margin-right: 2.5em;
 }
 .category{
   padding-left: 15em;
   padding-right: 10em;
+  display: flex;
+  flex-wrap: wrap;
 }
 .content{
   background-color:rgba(206, 214, 224,0.5);
@@ -90,4 +93,11 @@ span{
 }
 .content:hover p{
   color:white;
+}
+#photography{
+  background:url("https://i.pinimg.com/originals/d9/a7/54/d9a754b5df715ac2a5d010f7d831f284.jpg")no-repeat;
+  -webkit-background-size:contain;
+  -moz-background-size:contain;
+  -o-background-size:contain;
+  padding-top: 11.5em;
 }
