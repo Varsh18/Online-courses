@@ -24,9 +24,11 @@ input[type="submit"]{
   font-size: 16px;
   color: #ffffff;
   background-color:rgba(214, 48, 49,1.0);
+    margin-left: 1.5em;
 }
 input[type="submit"]:hover{
   cursor:pointer;
+
 }
 .info{
   padding-top: 3em;
@@ -37,7 +39,7 @@ input[type="submit"]:hover{
 input[type='text']{
   width:25em;
   height:2.5em;
-
+  margin-right: 1em;
 }
 .sign-up{
   padding-top:7em;
@@ -130,13 +132,21 @@ span{
   padding-top: 11.5em;
 }
 #search p{
-  padding-top: 1.5em;
+  padding-top: 1em;
   padding-left: 8.5em;
   font-size: 3em;
   color: #ffffff;
 }
 #search{
-  background-color: rgba(255, 107, 129,1.0);
+  background-color:rgba(235, 59, 90,1.0);
   margin-right: 9em;
   margin-left: 9em;
+  padding-bottom: 3em;
+}
+#search-box{
+  margin-left: 3em;
+  margin-right: 3em;
+  background-color: #ffffff;
+  padding: 2em;
+  padding-left: 4em;
 }
