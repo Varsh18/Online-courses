@@ -30,7 +30,7 @@ input[type="submit"]:hover{
 .info{
   padding-top: 3em;
   padding-left: 4.5em;
-  color:rgba(256,256,256,1.0);;
+  color:rgba(256,256,256,1.0);
   font-size: 4em;
 }
 input[type='text']{
