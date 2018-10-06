@@ -27,3 +27,9 @@ input[type="submit"]{
 input[type="submit"]:hover{
   cursor:pointer;
 }
+.info{
+  padding-top: 3em;
+  padding-left: 4em;
+  color:rgba(256,256,256,1.0);;
+  font-size: 4em;
+}
