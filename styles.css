@@ -4,3 +4,7 @@ body{
   -moz-background-size:cover;
   -o-background-size:cover;
 }
+.header{
+  padding-left: 15em;
+  padding-top: 3em;
+}
