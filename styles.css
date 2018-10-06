@@ -8,3 +8,12 @@ body{
   padding-left: 15em;
   padding-top: 3em;
 }
+a{
+  text-decoration: none;
+  color: #ffffff;
+  font-size: 2em;
+  padding-right: 1.5em;
+}
+a:hover{
+  color:rgba(232, 67, 147,1.0);
+}
