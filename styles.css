@@ -47,7 +47,7 @@ input[type='text']{
 }
 #course p{
   padding-top: 1.5em;
-  padding-left: 11.5em;
+  padding-left: 11em;
   font-size:3em;
   color:rgba(99, 110, 114,1.0);
 }
@@ -149,4 +149,10 @@ span{
   background-color: #ffffff;
   padding: 2em;
   padding-left: 4em;
+}
+hr{
+  width:20em;
+  height:0.3em;
+  background-color:rgba(235, 59, 90,1.0);
+  margin-bottom: 2em;
 }
