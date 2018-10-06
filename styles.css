@@ -51,11 +51,43 @@ input[type='text']{
 }
 
 #development{
-  background:url("http://www.olivesolutions.com/olive_admin/files/blog_banner/resize/men%20working%20on%20laptop.jpg")no-repeat center center fixed;
-  -webkit-background-size: cover;
-  -moz-background-size:cover;
-  -o-background-size:cover;
+  background:url("http://www.olivesolutions.com/olive_admin/files/blog_banner/resize/men%20working%20on%20laptop.jpg")no-repeat;
+  -webkit-background-size:contain;
+  -moz-background-size:contain;
+  -o-background-size:contain;
+  padding-top: 11.5em;
 }
 .box{
   box-sizing: border-box;
+  width:30%;
+  border: 1px solid white;
+}
+.category{
+  padding-left: 15em;
+  padding-right: 10em;
+}
+.content{
+  background-color:rgba(206, 214, 224,0.5);
+  padding-bottom: 4em;
+  padding-left: 1em;
+  padding-top: 1.5em;
+}
+.content p{
+  color:rgba(47, 53, 66,1.0);
+  font-size: 2em;
+  font-weight: bold;
+}
+span{
+  color:rgba(255, 71, 87,1.0);
+  font-size: 1.5em;
+}
+.content:hover{
+  cursor: pointer;
+  background-color:rgba(255, 71, 87,1.0);
+}
+.content:hover span{
+  color:white;
+}
+.content:hover p{
+  color:white;
 }
