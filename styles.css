@@ -49,3 +49,13 @@ input[type='text']{
   font-size:3em;
   color:rgba(99, 110, 114,1.0);
 }
+
+#development{
+  background:url("http://www.olivesolutions.com/olive_admin/files/blog_banner/resize/men%20working%20on%20laptop.jpg")no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size:cover;
+  -o-background-size:cover;
+}
+.box{
+  box-sizing: border-box;
+}
