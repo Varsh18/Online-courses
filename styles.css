@@ -3,7 +3,7 @@
   -webkit-background-size:cover;
   -moz-background-size:cover;
   -o-background-size:cover;
-  padding-bottom:18em;
+  padding-bottom:25em;
 }
 .header{
   padding-left: 24em;
@@ -42,4 +42,10 @@ input[type='text']{
 .sign-up{
   padding-top:7em;
   padding-left: 17em;
+}
+#course{
+  padding-top: 1.5em;
+  padding-left: 11.5em;
+  font-size:3em;
+  color:rgba(99, 110, 114,1.0);
 }
