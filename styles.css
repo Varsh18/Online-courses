@@ -55,17 +55,17 @@ input[type='text']{
   -webkit-background-size:contain;
   -moz-background-size:contain;
   -o-background-size:contain;
-  padding-top: 11.5em;
+  padding-top: 12.5em;
 }
 .box{
   box-sizing: border-box;
   width:30%;
   border: 1px solid white;
   margin-right: 2.5em;
+  margin-bottom: 2.5em;
 }
 .category{
-  padding-left: 15em;
-  padding-right: 10em;
+  padding-left: 5em;
   display: flex;
   flex-wrap: wrap;
 }
@@ -73,7 +73,7 @@ input[type='text']{
   background-color:rgba(206, 214, 224,0.5);
   padding-bottom: 4em;
   padding-left: 1em;
-  padding-top: 1.5em;
+  padding-top: 2.5em;
 }
 .content p{
   color:rgba(47, 53, 66,1.0);
@@ -96,6 +96,13 @@ span{
 }
 #photography{
   background:url("https://i.pinimg.com/originals/d9/a7/54/d9a754b5df715ac2a5d010f7d831f284.jpg")no-repeat;
+  -webkit-background-size:contain;
+  -moz-background-size:contain;
+  -o-background-size:contain;
+  padding-top: 11.5em;
+}
+#music{
+  background:url("https://cdns.klimg.com/vemale.com/headline/650x325/2018/04/karena-dia-percaya-bahwa-tuhan-bukan-pemberi-harapan-palsu.jpg")no-repeat;
   -webkit-background-size:contain;
   -moz-background-size:contain;
   -o-background-size:contain;
