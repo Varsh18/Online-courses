@@ -160,11 +160,10 @@ hr{
   margin-top: 3em;
   background-color: rgba(235, 59, 90,1.0);
   color:#ffffff;
-  font-size: 2em;
-  width:47%;
+  font-size: 1.5em;
+  width:98%;
   padding-bottom: 1em;
   padding-left: 1em;
-  padding-right: 1em;
 }
 #sign-up-teacher h1{
     padding-left: 1.5em;
@@ -174,11 +173,20 @@ hr{
   margin: 3em;
   margin-top: 2em;
   margin-bottom: 2em;
-  background-color: #fed330;
+  background-color: #ffffff;
   color:#ffffff;
   padding: 1em;
-  width:53%;
+  width:34%;
 }
 #sign-up-form input[type="text"],input[type="submit"]{
   margin-bottom: 3em;
   }
+#sign-up-image{
+  margin-left: 50%;
+  margin-top: -35em;
+  background: url("https://www.stonebridge.uk.com/blog/wp-content/uploads/2016/05/Web-design-and-development.jpg")no-repeat;
+  -webkit-background-size:auto;
+  background-size: auto;
+  padding-left: 50%;
+  padding-bottom: 100%;
+}
