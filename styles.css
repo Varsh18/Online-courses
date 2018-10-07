@@ -215,3 +215,9 @@ hr{
 #footer h1{
   padding-bottom: 2em;
 }
+li,ul{
+  text-decoration: none;
+  list-style: none;
+  padding-bottom: 1em;
+  color:rgba(75, 101, 132,1.0);
+}
