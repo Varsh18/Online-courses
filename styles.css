@@ -234,6 +234,7 @@ li,ul{
 #foo-line{
   background-color: rgba(209, 216, 224,1.0);
   width:100%;
+  color:rgba(136, 84, 208,1.0);
 }
 #copyright{
   padding-left: 1em;
