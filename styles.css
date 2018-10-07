@@ -222,9 +222,12 @@ li,ul{
   color:rgba(75, 101, 132,1.0);
 }
 #foo-engineering,#foo-graphic,#foo-development,#foo-news{
-  padding-left: 4.5em;
+  padding-left: 5.5em;
 }
 #foo-news input[type="text"]{
-  width:15em;
+  width:20em;
   margin-bottom: 2em;
+}
+#foo-news input[type="submit"]{
+  margin-left: 0.8em;
 }
