@@ -238,3 +238,8 @@ li,ul{
 #copyright{
   padding-left: 1em;
 }
+#foo-right{
+  margin-top: -2em;
+  float:right;
+  padding-right: 1em;
+}
