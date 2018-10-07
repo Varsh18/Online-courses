@@ -221,3 +221,6 @@ li,ul{
   padding-bottom: 1em;
   color:rgba(75, 101, 132,1.0);
 }
+#foo-engineering,#foo-graphic,#foo-development{
+  padding-left: 4.5em;
+}
