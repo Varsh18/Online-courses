@@ -199,3 +199,9 @@ hr{
 #community input[type="submit"]{
   margin-left: 13%;
 }
+#hr{
+  width:94em;
+  height:0.3em;
+  background-color:rgba(235, 59, 90,1.0);
+  margin-top: 5em;
+}
