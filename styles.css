@@ -190,3 +190,12 @@ hr{
   padding-left: 50%;
   padding-bottom: 100%;
 }
+#community{
+  padding-left: 11em;
+  font-size:3em;
+  color:rgba(99, 110, 114,1.0);
+  margin-top: -57%;
+}
+#community input[type="submit"]{
+  margin-left: 13%;
+}
