@@ -231,3 +231,7 @@ li,ul{
 #foo-news input[type="submit"]{
   margin-left: 0.8em;
 }
+#foo-line{
+  background-color: rgba(209, 216, 224,1.0);
+  width:100%;
+}
