@@ -224,3 +224,6 @@ li,ul{
 #foo-engineering,#foo-graphic,#foo-development,#foo-news{
   padding-left: 4.5em;
 }
+#foo-news input[type="text"]{
+  width:15em;
+}
