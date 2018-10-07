@@ -226,4 +226,5 @@ li,ul{
 }
 #foo-news input[type="text"]{
   width:15em;
+  margin-bottom: 2em;
 }
