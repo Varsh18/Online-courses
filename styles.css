@@ -235,3 +235,6 @@ li,ul{
   background-color: rgba(209, 216, 224,1.0);
   width:100%;
 }
+#copyright{
+  padding-left: 1em;
+}
