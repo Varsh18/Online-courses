@@ -258,4 +258,16 @@ li,ul{
     font-size: 12px;
     margin-left: 1em;
   }
+  .info{
+    padding-top: 3em;
+    padding-left: 15%;
+    font-size: 3em;
+  }
+}
+@media screen and (max-width:1210px){
+  .info{
+    padding-top: 3em;
+    padding-left: 15%;
+    font-size: 3.5em;
+  }
 }
