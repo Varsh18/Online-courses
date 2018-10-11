@@ -302,4 +302,7 @@ li,ul{
     padding-left: 10%;
     margin-top:-34em;
   }
+  #community p{
+    margin-left: -18%;
+  }
 }
