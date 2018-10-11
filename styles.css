@@ -297,6 +297,9 @@ li,ul{
   }
   #sign-up-image{
     margin-left: 40%;
-
+    -webkit-background-size:contain;
+    background-size:contain;
+    padding-left: 10%;
+    margin-top:-34em;
   }
 }
