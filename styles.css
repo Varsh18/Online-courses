@@ -260,8 +260,8 @@ li,ul{
   }
   .info{
     padding-top: 3em;
-    padding-left: 15%;
-    font-size: 3em;
+    padding-left:2%;
+    font-size: 2.7em;
   }
 }
 @media screen and (max-width:1210px){
