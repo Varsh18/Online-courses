@@ -289,4 +289,7 @@ li,ul{
   #ai p{
       font-size: 1.8em;
   }
+  #search p{
+    padding-left: 30%;
+  }
 }
