@@ -292,4 +292,7 @@ li,ul{
   #search p{
     padding-left: 30%;
   }
+  #sign-up-form{
+    margin-left: 3%;
+  }
 }
