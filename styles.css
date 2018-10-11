@@ -293,6 +293,10 @@ li,ul{
     padding-left: 30%;
   }
   #sign-up-form{
-    margin-left: 3%;
+    margin-left: 0%;
+  }
+  #sign-up-image{
+    margin-left: 40%;
+
   }
 }
