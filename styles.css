@@ -280,4 +280,7 @@ li,ul{
   .box{
     width:28%;
   }
+  .content{
+    margin-top: -2.3em;
+  }
 }
