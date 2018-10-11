@@ -306,4 +306,7 @@ li,ul{
     margin-left: -33%;
     margin-top:15%;
   }
+  #community input[type="submit"]{
+    margin-left: -15%;
+  }
 }
