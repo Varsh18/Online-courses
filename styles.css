@@ -277,4 +277,7 @@ li,ul{
   #course p{
     padding-left: 30%;
   }
+  .box{
+    width:28%;
+  }
 }
