@@ -286,5 +286,7 @@ li,ul{
   #ai{
     padding-top: -8.7em;
   }
-
+  #ai p{
+      font-size: 1.8em;
+  }
 }
